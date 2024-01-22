@@ -1,0 +1,11 @@
+.icon {
+  cursor: pointer;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.icon:hover {
+  background-color: rgb(30, 29, 29);
+}
